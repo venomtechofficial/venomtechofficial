@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👨‍💻 All of my projects are available at [Working In progress](Working In progress)
+- 👨‍💻 All of my projects are available In my Github 
 
 - 📝 I regularly write articles on [https://venomtechofficial1.blogspot.com/2022/10/7-tips-on-how-to-stay-safe-and-secure.html](https://venomtechofficial1.blogspot.com/2022/10/7-tips-on-how-to-stay-safe-and-secure.html)
 
